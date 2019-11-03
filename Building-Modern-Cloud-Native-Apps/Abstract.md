@@ -1,4 +1,4 @@
-## Abtract
+## Abstract
 
 The intent of this guide is to serve as a handbook for architects who are in process of either migrating “traditionally” built applications to a cloud platform (either on premise, private or public cloud) or embarking on a journey to build new applications from scratch that must exhibit capabilities of reliability, scalability and ability to change to support business aspirations. 
 
